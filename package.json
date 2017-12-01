@@ -1,0 +1,19 @@
+{
+  "name": "tempdemo",
+  "version": "1.2.3",
+  "description": "new demo",
+  "main": "addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarjeet-arora/newnpm.git"
+  },
+  "author": "asreet. <amarjeet.sn1@gmail.com> (http://asreet-tech.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarjeet-arora/newnpm/issues"
+  },
+  "homepage": "https://github.com/amarjeet-arora/newnpm#readme"
+}
